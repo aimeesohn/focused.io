@@ -1,9 +1,9 @@
 ---
-title: 'My document post test1'
-subtitle: 'The subtitle for the front page'
-table: true
-pager: true
-variable: 'An amazing variable value'
+title:My document post test1
+subtitle:The subtitle for the front page
+table:true
+pager:true
+variable:An amazing variable value
 ---
 
 # This is a typical title which appears in the table of content
